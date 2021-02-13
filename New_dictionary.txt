@@ -1,0 +1,3 @@
+Spython3 
+
+{'Banana': 'Apple', 'grapes': 'watermelon', 'melon': 'cabbage', 'orange': 'pear'}
