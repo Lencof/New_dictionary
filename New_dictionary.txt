@@ -1,3 +1,2 @@
-$ python continue.py
-
+$ python New_dictionary.py
 {'Banana': 'Apple', 'grapes': 'watermelon', 'melon': 'cabbage', 'orange': 'pear'}
