@@ -1,0 +1,2 @@
+$ python Dictionary modification №1.py
+{'Go', 'Vaca', 'Carp', 'Milk', 'Cup', 'Car'}
